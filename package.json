@@ -1,0 +1,28 @@
+{
+  "name": "expressjs-starter-kit",
+  "version": "1.0.0",
+  "description": "A simple starter kit for building Express.js applications.",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cesarpizarra/expressjs-starter-kit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/cesarpizarra/expressjs-starter-kit/issues"
+  },
+  "homepage": "https://github.com/cesarpizarra/expressjs-starter-kit#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
